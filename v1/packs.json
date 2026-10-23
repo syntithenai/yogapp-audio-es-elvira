@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "es-elvira.zip", "bytes": 62203682, "sha256": "e3cff9303f2370d4f8aa1fe94723ec94d250e5c7d34dc134532fc3778e49505d"}
+  ]
+}
